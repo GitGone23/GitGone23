@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with coding tips and any of the above.
 - 💬 Ask me about how resiliency, programming, ethics, and costomer experience can be intersectional. 
 - 📫 How to reach me: Learn more about me on my blog.
-- ⚡ Fun fact: I know Nashville Numbering.
+- ⚡ Fun fact: I know Nashville Numbering! :-)
 
