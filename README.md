@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-//TODO add more details
+//TODO add more details 
 
 - 🔭 I’m currently working on machine learning and generative ai items.
 - 🌱 I’m currently learning python, linux, vae, gan systems and ml concepts. 
